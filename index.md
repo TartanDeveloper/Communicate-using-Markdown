@@ -6,3 +6,9 @@
 ```
 # syntax for image : ![alt text](https:// and image file name)
 ```
+
+- [ ] Complete Read.md
+- [ ] Create an activity check list
+- [ ] List syntax is required
+- [ ] This item is complete
+- [ ] This item is not complete
